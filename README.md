@@ -31,6 +31,6 @@ You is my guest to suggest another implementation.
 
 To learn about this: 
 
-I will let here a folder called [Soccer](https://github.com/jeanjmichel/LearnPython3-OrientedProgramming/Soccer/) with a code used to explain Python's collections support. Try break it into classes that represents the entities mentionated in this code.
+I will let here a folder called [Soccer](https://github.com/jeanjmichel/LearnPython3-OrientedProgramming/tree/master/Soccer) with a code used to explain Python's collections support. Try break it into classes that represents the entities mentionated in this code.
 
 # Enjoy! =)
